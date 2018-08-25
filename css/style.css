@@ -1,0 +1,17 @@
+body {
+    background: #AF0000;
+}
+
+#clock {
+    display: flex;
+    justify-content: center;
+    margin-top: 35vh;
+    color: #fff;
+    font-size: 120px;
+    font-weight: normal;
+    font-family: 'Arial', sans-serif;
+}
+
+#happyNewYear {
+   margin: 10% 32% 10% 32%;
+}
